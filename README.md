@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋What's up guys😊😊
+- 🔭 I am pursuing my Master's degree at NEU, with a focus on vector search.
+- 🌱 I have a strong interest in low-level computer systems and am currently studying distributed databases,
+- 🤔 focusing on their architecture, consistency models and storage
 <!--
 **SnowLegend-star/SnowLegend-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
