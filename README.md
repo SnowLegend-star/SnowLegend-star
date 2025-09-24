@@ -3,7 +3,7 @@
 - 🥰 I have a strong interest in low-level computer systems and am currently studying distributed databases.
 - ⚽ Football and badminton are the two sports I am most passionate about right now.🏸🏸
 - 🏔️ I have always believed that fate smiles upon those brave enough to carve their path through thorns and surmount every challenge that dares to stand in their way.
-- ⚡ Let us, together, march forward with unyielding spirit and unwavering resolve.✨✨
+##- ⚡ Let us, together, march forward with unyielding spirit and unwavering resolve.✨✨
 
 ![](https://raw.githubusercontent.com/SnowLegend-star/SnowLegend-star/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
