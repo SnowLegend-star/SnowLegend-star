@@ -4,8 +4,10 @@
 - ⚽ Football and badminton are the two sports I am most passionate about right now.🏸🏸
 - 🏔️ I have always believed that fate smiles upon those brave enough to carve their path through thorns and surmount every challenge that dares to stand in their way.✨✨
 
-![](https://raw.githubusercontent.com/SnowLegend-star/SnowLegend-star/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
+<div style="background-color:#ffffff">
+![](https://raw.githubusercontent.com/SnowLegend-star/SnowLegend-star/refs/heads/output/github-contribution-grid-snake-dark.svg)
+</div>
 <!--
 **SnowLegend-star/SnowLegend-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
