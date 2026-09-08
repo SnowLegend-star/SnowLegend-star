@@ -6,7 +6,7 @@
 
 
 <div style="background-color:#ffffff">
-![](https://raw.githubusercontent.com/SnowLegend-star/SnowLegend-star/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/xxx/xxx/output/github-contribution-grid-snake.svg">
 </div>
 <!--
 **SnowLegend-star/SnowLegend-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
